@@ -1,0 +1,5 @@
+/node_modules 
+/dist
+package-lock.json
+
+# каталог указыватся через / ,  а файлы без него
